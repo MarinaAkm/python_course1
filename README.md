@@ -1,2 +1,2 @@
-# python_corse1
+# python_course1
 Тренировочные кейсы
